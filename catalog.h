@@ -12,7 +12,7 @@
 #define PRODUCTS 30
 #define ORDERS 10
 #define CUSTOMERS 5
-
+//domh gia ton katalogo
 typedef struct {
     int code;
     char name[50];
